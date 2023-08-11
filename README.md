@@ -2,4 +2,4 @@
 
 ## Website
 
- [DCMS](https://dentalclinicmanagementsystem.000webhostapp.com/).
+https://dentalclinicmanagementsystem.000webhostapp.com/
